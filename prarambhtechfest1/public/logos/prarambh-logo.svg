@@ -1,0 +1,16 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="95" fill="url(#paint0_linear)" stroke="#9333EA" stroke-width="2"/>
+  <path d="M40 80H60V120H40V80Z" fill="white"/>
+  <path d="M70 60H90V140H70V60Z" fill="white"/>
+  <path d="M100 70H120V130H100V70Z" fill="white"/>
+  <path d="M130 80H150V120H130V80Z" fill="white"/>
+  <path d="M40 140L150 140L95 170L40 140Z" fill="white"/>
+  <text x="100" y="190" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="white">PRARAMBH</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="200" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9333EA"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+  </defs>
+</svg>
+
